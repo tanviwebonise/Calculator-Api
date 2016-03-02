@@ -14,7 +14,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/tanviwebonise/Calculator-Api</developerConnection>
-    </scm>
+  </scm>
 
     <build>
         <plugins>
