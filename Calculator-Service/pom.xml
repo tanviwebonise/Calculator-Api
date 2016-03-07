@@ -3,13 +3,13 @@
     <parent>
         <artifactId>Calculator-Api</artifactId>
         <groupId>com.webonise</groupId>
-        <version>1.15-SNAPSHOT</version>
+        <version>1.15</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>${project.parent.groupId}</groupId>
     <artifactId>Calculator-Service</artifactId>
-    <version>${project.parent.version}</version>
+    <version>1.15</version>
 
 
     <dependencies>
