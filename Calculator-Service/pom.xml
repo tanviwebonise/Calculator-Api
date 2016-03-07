@@ -16,7 +16,7 @@
         <dependency>
             <groupId>com.webonise</groupId>
             <artifactId>Calculator-Client</artifactId>
-            <version>1.11</version>
+            <version>${project.parent.version}</version>
         </dependency>
     </dependencies>
 
