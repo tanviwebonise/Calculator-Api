@@ -19,7 +19,7 @@
 
     <distributionManagement>
     <repository>
-    <id>proof-repo</id>
+    <id>proof-releases</id>
     <url>http://52.2.36.232:8081/nexus/content/repositories/proof-repo</url>
   </repository>
     </distributionManagement> <build>
