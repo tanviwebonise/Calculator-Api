@@ -17,7 +17,12 @@
     <tag>HEAD</tag>
   </scm>
 
-    <build>
+    <distributionManagement>
+    <repository>
+    <id>proof-repo</id>
+    <url>http://52.2.36.232:8081/nexus/content/repositories/proof-repo</url>
+  </repository>
+    </distributionManagement> <build>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
