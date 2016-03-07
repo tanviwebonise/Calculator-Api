@@ -5,7 +5,7 @@
     <groupId>com.webonise</groupId>
     <artifactId>Calculator-Api</artifactId>
     <packaging>pom</packaging>
-    <version>1.14-SNAPSHOT</version>
+    <version>1.15-SNAPSHOT</version>
     <modules>
         <module>Calculator-Client</module>
         <module>Calculator-Service</module>
