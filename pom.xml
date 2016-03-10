@@ -5,7 +5,7 @@
     <groupId>com.webonise</groupId>
     <artifactId>Calculator-Api</artifactId>
     <packaging>pom</packaging>
-    <version>2.0.2-SNAPSHOT</version>
+    <version>2.0.2</version>
     <modules>
         <module>Calculator-Client</module>
         <module>Calculator-Service</module>
@@ -14,7 +14,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/tanviwebonise/Calculator-Api/</developerConnection>
-    <tag>1.11</tag>
+    <tag>2.0.2-RELEASE</tag>
   </scm>
 
     <distributionManagement>
